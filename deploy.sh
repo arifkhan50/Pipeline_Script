@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Deploy job successfully"
+echo  "Hello this is Deploy completed successfully"
