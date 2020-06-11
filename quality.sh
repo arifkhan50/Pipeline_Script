@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Quality test completed successfully"
+echo  "Hello this is QUALITY completed successfully"
