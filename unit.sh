@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Unit test completed successfully"
+echo  "Hello this is UNIT job completed successfully"
